@@ -35,6 +35,7 @@
     <th ></th>
     <th ></th>
     <th ></th>
+    <th ></th>
     <th>شنبه</th>
   </tr>
    <tr>
