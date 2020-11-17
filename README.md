@@ -3,8 +3,7 @@
 ### سمیرا عباسی
  
 - [حساب گیت هاب](https://github.com/Samiiraabbasi3256)
-- [روزمه]()
-
+- [روزمه](https://Samiraabbasi3256.github.io)
 - [SOP]()
 
 ------------------
