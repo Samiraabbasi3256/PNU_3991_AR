@@ -2,10 +2,10 @@
 ---------
 ### سمیرا عباسی
  
-- [حساب گیت هاب](https://github.com/Samiiraabbasi3256)
+- [حساب گیت هاب](https://github.com/Samiraabbasi3256)
 - [روزمه](https://Samiraabbasi3256.github.io)
 - [SOP]()
-- [certificates](https://samiraabbasi3256.github.io/certificates/)
+- [certificates](https://Samiraabbasi3256.github.io/certificates/)
 ------------------
 
 ## Winter Semester Courses 1399/2020
