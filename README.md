@@ -5,8 +5,7 @@
 - [حساب گیت هاب](https://github.com/Samiraabbasi3256)
 - [روزمه](https://Samiraabbasi3256.github.io)
 - [SOP](https://samiraabbasi3256.github.io/SOP/)
-##- [certificates](https://Samiraabbasi3256.github.io/certificates/)
-[certificates](https://github.com/Samiraabbasi3256/certificate)
+- [certificates](https://Samiraabbasi3256.github.io/certificates/)
 
 
 ------------------
