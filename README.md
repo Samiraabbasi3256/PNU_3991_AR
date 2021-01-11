@@ -4,8 +4,9 @@
  
 - [حساب گیت هاب](https://github.com/Samiraabbasi3256)
 - [روزمه](https://Samiraabbasi3256.github.io)
-- [SOP]()
+- [SOP](https://samiraabbasi3256.github.io/SOP/)
 - [certificates](https://Samiraabbasi3256.github.io/certificates/)
+
 ------------------
 
 ## Winter Semester Courses 1399/2020
